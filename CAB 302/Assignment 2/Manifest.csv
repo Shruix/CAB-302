@@ -1,0 +1,45 @@
+>FridgeTruck
+ice cream,250
+frozen meat,550
+>FridgeTruck
+frozen meat,25
+frozen vegetable mix,325
+ice,325
+fish,125
+>FridgeTruck
+fish,350
+beef,450
+>FridgeTruck
+beef,100
+yoghurt,325
+milk,375
+>FridgeTruck
+milk,50
+cheese,450
+chicken,300
+>FridgeTruck
+chicken,125
+asparagus,275
+celery,350
+grapes,50
+>FridgeTruck
+grapes,175
+mushrooms,325
+tomatoes,300
+>FridgeTruck
+tomatoes,100
+lettuce,350
+rice,300
+beans,50
+>DryTruck
+beans,475
+pasta,250
+biscuits,275
+>DryTruck
+biscuits,300
+nuts,250
+chips,200
+chocolate,250
+>DryTruck
+chocolate,125
+bread,200
